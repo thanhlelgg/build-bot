@@ -1,0 +1,10 @@
+source 'https://rubygems.org'
+
+gem 'builder'
+gem 'curb'
+gem 'git'
+gem 'lita'
+gem 'lita-slack'
+gem 'nokogiri'
+
+gemspec
